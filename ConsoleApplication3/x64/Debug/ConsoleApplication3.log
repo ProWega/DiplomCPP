@@ -1,0 +1,7 @@
+﻿  KMeansClasterColor.cpp
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\KMeansClasterColor.cpp(267,31): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\KMeansClasterColor.cpp(267,31): warning C4267:         with
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\KMeansClasterColor.cpp(267,31): warning C4267:         [
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\KMeansClasterColor.cpp(267,31): warning C4267:             _Ty=int
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\KMeansClasterColor.cpp(267,31): warning C4267:         ]
+  ConsoleApplication3.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
